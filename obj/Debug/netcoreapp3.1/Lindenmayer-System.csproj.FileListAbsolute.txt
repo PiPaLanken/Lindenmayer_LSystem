@@ -1,0 +1,16 @@
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.csprojAssemblyReference.cache
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer_System.Form1.resources
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.csproj.GenerateResource.cache
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.AssemblyInfoInputs.cache
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.AssemblyInfo.cs
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.csproj.CoreCompileInputs.cache
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.exe
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.deps.json
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.runtimeconfig.json
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.runtimeconfig.dev.json
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.dll
+E:\VisualProjekt\Lindenmayer-System\bin\Debug\netcoreapp3.1\Lindenmayer-System.pdb
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.dll
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.pdb
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.genruntimeconfig.cache
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer_System.Properties.Resources.resources
