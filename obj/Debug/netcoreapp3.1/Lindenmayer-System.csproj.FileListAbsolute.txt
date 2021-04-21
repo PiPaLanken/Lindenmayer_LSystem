@@ -1,5 +1,4 @@
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.csprojAssemblyReference.cache
-E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer_System.Form1.resources
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.csproj.GenerateResource.cache
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.AssemblyInfoInputs.cache
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.AssemblyInfo.cs
@@ -14,3 +13,4 @@ E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.d
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.pdb
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer-System.genruntimeconfig.cache
 E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer_System.Properties.Resources.resources
+E:\VisualProjekt\Lindenmayer-System\obj\Debug\netcoreapp3.1\Lindenmayer_System.MainForm.resources
